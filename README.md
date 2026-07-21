@@ -1,1 +1,1 @@
-# minigpt
+# miniGPT
