@@ -1,8 +1,14 @@
+
+
+
+
+
 # miniGPT
 
 miniGPT is a FastAPI-based AI chat application powered by Google Gemini models, LangGraph, RAG (retrieval-augmented generation), and a web-based frontend. It allows users to chat with an agent, upload documents, search through uploaded files, remember user preferences, and use web search when needed.
 
 # Demo
+https://github.com/user-attachments/assets/b88b5456-111a-45db-b726-fbcb58515ec9
 
 ## Features
 
